@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="421px" height="273px" viewBox="0 0 421 273" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>connect four</title>
+    <desc>Created with Sketch.</desc>
+    <g id="connect-four" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(70.000000, 41.000000)" fill-rule="nonzero">
+            <g id="Group" stroke="#454F4E" stroke-linecap="round" stroke-width="3">
+                <polyline id="Path" points="282 1 282 191 2.27373675e-13 191 2.27373675e-13 1"></polyline>
+                <path d="M41.5,0 L41.5,190" id="Line-3"></path>
+                <path d="M81.5,0 L81.5,190" id="Line-3-Copy"></path>
+                <path d="M121.5,0 L121.5,190" id="Line-3-Copy-2"></path>
+                <path d="M161.5,0 L161.5,190" id="Line-3-Copy-3"></path>
+                <path d="M202.5,0 L202.5,190" id="Line-3-Copy-4"></path>
+                <path d="M242.5,0 L242.5,190" id="Line-3-Copy-5"></path>
+            </g>
+            <circle id="Oval-Copy-9" fill="#000000" cx="101.5" cy="135.5" r="15.5"></circle>
+            <circle id="Oval-Copy-10" fill="#000000" cx="61.5" cy="170.5" r="15.5"></circle>
+            <circle id="Oval-Copy-17" fill="#000000" cx="181.5" cy="170.5" r="15.5"></circle>
+            <circle id="Oval-Copy-19" fill="#000000" cx="181.5" cy="65.7842712" r="15.5"></circle>
+            <circle id="Oval-Copy-11" fill="#000000" cx="20.9055916" cy="170.5" r="15.5"></circle>
+            <circle id="Oval-Copy-8" fill="#000000" cx="101.5" cy="170.5" r="15.5"></circle>
+            <circle id="Oval-Copy-12" fill="#000000" cx="141.5" cy="170.5" r="15.5"></circle>
+            <circle id="Oval-Copy-18" fill="#000000" cx="222.5" cy="170.5" r="15.5"></circle>
+            <circle id="Oval-Copy-13" fill="#000000" cx="141.5" cy="135.5" r="15.5"></circle>
+            <circle id="Oval-Copy-15" fill="#000000" cx="182.094408" cy="135.5" r="15.5"></circle>
+            <g id="X" transform="translate(101.702796, 135.202796) rotate(-315.000000) translate(-101.702796, -135.202796) translate(91.702796, 125.202796)" stroke="#F5A623" stroke-linecap="round" stroke-width="3">
+                <path d="M2.92893219,2.92893219 L17.0710678,17.0710678" id="Line" transform="translate(10.000000, 10.000000) rotate(-135.000000) translate(-10.000000, -10.000000) "></path>
+                <path d="M2.92893219,2.92893219 L17.0710678,17.0710678" id="Line" transform="translate(10.000000, 10.000000) rotate(-45.000000) translate(-10.000000, -10.000000) "></path>
+            </g>
+            <g id="X" transform="translate(61.702796, 170.202796) rotate(-315.000000) translate(-61.702796, -170.202796) translate(51.702796, 160.202796)" stroke="#F5A623" stroke-linecap="round" stroke-width="3">
+                <path d="M2.92893219,2.92893219 L17.0710678,17.0710678" id="Line" transform="translate(10.000000, 10.000000) rotate(-135.000000) translate(-10.000000, -10.000000) "></path>
+                <path d="M2.92893219,2.92893219 L17.0710678,17.0710678" id="Line" transform="translate(10.000000, 10.000000) rotate(-45.000000) translate(-10.000000, -10.000000) "></path>
+            </g>
+            <g id="X" transform="translate(182.142136, 170.142136) rotate(-315.000000) translate(-182.142136, -170.142136) translate(172.142136, 160.142136)" stroke="#F5A623" stroke-linecap="round" stroke-width="3">
+                <path d="M2.92893219,2.92893219 L17.0710678,17.0710678" id="Line" transform="translate(10.000000, 10.000000) rotate(-135.000000) translate(-10.000000, -10.000000) "></path>
+                <path d="M2.92893219,2.92893219 L17.0710678,17.0710678" id="Line" transform="translate(10.000000, 10.000000) rotate(-45.000000) translate(-10.000000, -10.000000) "></path>
+            </g>
+            <g id="X" transform="translate(182.142136, 65.426407) rotate(-315.000000) translate(-182.142136, -65.426407) translate(172.142136, 55.426407)" stroke="#F5A623" stroke-linecap="round" stroke-width="3">
+                <path d="M2.92893219,2.92893219 L17.0710678,17.0710678" id="Line" transform="translate(10.000000, 10.000000) rotate(-135.000000) translate(-10.000000, -10.000000) "></path>
+                <path d="M2.92893219,2.92893219 L17.0710678,17.0710678" id="Line" transform="translate(10.000000, 10.000000) rotate(-45.000000) translate(-10.000000, -10.000000) "></path>
+            </g>
+            <g id="X" transform="translate(21.108387, 170.202796) rotate(-315.000000) translate(-21.108387, -170.202796) translate(11.108387, 160.202796)" stroke="#F5A623" stroke-linecap="round" stroke-width="3">
+                <path d="M2.92893219,2.92893219 L17.0710678,17.0710678" id="Line" transform="translate(10.000000, 10.000000) rotate(-135.000000) translate(-10.000000, -10.000000) "></path>
+                <path d="M2.92893219,2.92893219 L17.0710678,17.0710678" id="Line" transform="translate(10.000000, 10.000000) rotate(-45.000000) translate(-10.000000, -10.000000) "></path>
+            </g>
+            <circle id="Oval" stroke="#4C7EF3" stroke-width="3" cx="101.5" cy="170.5" r="9.5"></circle>
+            <circle id="Oval-Copy" stroke="#4C7EF3" stroke-width="3" cx="141.5" cy="170.5" r="9.5"></circle>
+            <circle id="Oval-Copy-6" stroke="#4C7EF3" stroke-width="3" cx="222.5" cy="170.5" r="9.5"></circle>
+            <circle id="Oval-Copy-2" stroke="#4C7EF3" stroke-width="3" cx="141.5" cy="135.5" r="9.5"></circle>
+            <circle id="Oval-Copy-4" stroke="#4C7EF3" stroke-width="3" cx="182.094408" cy="135.5" r="9.5"></circle>
+            <circle id="Oval-Copy-14" fill="#000000" cx="141.5" cy="100.5" r="15.5"></circle>
+            <circle id="Oval-Copy-16" fill="#000000" cx="182.094408" cy="100.5" r="15.5"></circle>
+            <circle id="Oval-Copy-3" stroke="#4C7EF3" stroke-width="3" cx="141.5" cy="100.5" r="9.5"></circle>
+            <circle id="Oval-Copy-5" stroke="#4C7EF3" stroke-width="3" cx="182.094408" cy="100.5" r="9.5"></circle>
+            <circle id="Oval-Copy-9" fill="#000000" cx="101.5" cy="100.5" r="15.5"></circle>
+            <g id="X" transform="translate(101.702796, 100.202796) rotate(-315.000000) translate(-101.702796, -100.202796) translate(91.702796, 90.202796)" stroke="#F5A623" stroke-linecap="round" stroke-width="3">
+                <path d="M2.92893219,2.92893219 L17.0710678,17.0710678" id="Line" transform="translate(10.000000, 10.000000) rotate(-135.000000) translate(-10.000000, -10.000000) "></path>
+                <path d="M2.92893219,2.92893219 L17.0710678,17.0710678" id="Line" transform="translate(10.000000, 10.000000) rotate(-45.000000) translate(-10.000000, -10.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
