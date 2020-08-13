@@ -1,1 +1,1 @@
-## Machine Learning Algorithms and It's Implementaion
+## Machine Learning Algorithms and It's Implementation
